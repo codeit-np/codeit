@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690871283938",
+    "firebase_url": "https://codeit-4a73f.firebaseio.com",
+    "project_id": "codeit-4a73f",
+    "storage_bucket": "codeit-4a73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690871283938:android:fca993a18e1e9ab574eebb",
+        "android_client_info": {
+          "package_name": "np.com.codeit.codeitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690871283938-vth6u850b4iufqli9qs74mkev8e4ootd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.codeit.codeitapp",
+            "certificate_hash": "8a39d2fd77120bd7630e5421b93265d03a22362a"
+          }
+        },
+        {
+          "client_id": "690871283938-cpae2aoo03csl39jf5a1gk7lediir8gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2qfW5jAxzPJgcARWb-BikViuhamtwl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690871283938-cpae2aoo03csl39jf5a1gk7lediir8gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
